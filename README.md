@@ -11,7 +11,7 @@
 - [Spring4Shell Vulnerability (CVE-2022-22965)](https://nvd.nist.gov/vuln/detail/cve-2022-22965)
 - [EC2 IMDS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html)
 - [IMDSv1 Exploit](https://medium.com/@kfir_g/why-imdsv1-is-a-security-risk-for-cloud-infrastructure-350bbe4e8c94)
-- Se puede explotar también IMDSv2? [Check this article!](https://www.yassineaboukir.com/blog/exploitation-of-an-SSRF-vulnerability-against-EC2-IMDSv2/)
+- Se puede explotar también IMDSv2? [¡Revisa este artículo!](https://www.yassineaboukir.com/blog/exploitation-of-an-SSRF-vulnerability-against-EC2-IMDSv2/)
   
 ## Q&A
 Todas las preguntas que se hagan via email serán posteadas y contestadas en este blog del evento.
